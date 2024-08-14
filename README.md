@@ -10,7 +10,7 @@
    - 理解所有权、借用和生命周期
 
 2. **标准库**：
-   - 学习Rust标准库中的并发模块，例如`std::thread`和`std::sync`
+   - 学习Rust标准库中的并发模块，例如`std::thread`和`std::sync`✅day17
    - 掌握异步编程基础，例如`std::future`和`async/await`
 
 ### 高并发开发
